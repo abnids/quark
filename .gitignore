@@ -1,0 +1,26 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+
+# generator-langular #
+# dependencies
+assets/vendor
+node_modules
+# development
+public/angularapp
+public/css
+public/js
+public/json
+public/vendor
+# production
+public/angularapp.js
+public/styles.css
+public/vendors.js
+# docs
+api/docs
+# cache
+.tmp
+# End generator-langular #
